@@ -1,4 +1,4 @@
-# OLYMPIC-dataset
+# OLYMPIC
 Olympic Games Dataset (1896-2016)
 Introduction
 
